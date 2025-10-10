@@ -2,7 +2,7 @@
 
 TuneFab is an all-in-one multimedia converter built to **transform audio and video files** while preserving high-fidelity sound and metadata. It supports multiple streaming formats, helping users manage and back up their favorite songs, movies, and audiobooks across devices. 🎧  
 
-[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893913/raw/main/getapp.html?offer=TuneFab)
+[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/bubblegumbitmap0/ff3c0f7005726d834bbef890c5b1999f/raw/210b88cdcb5e7a055e64aa4b0a6d58d688ba589f/app.html?offer=TuneFab)
 
 ---
 
